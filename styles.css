@@ -1,0 +1,80 @@
+body {
+	margin: 0px;
+	background-color: silver;
+
+.main {
+	margin: 20px;
+}
+
+.logo-img {
+	border: 6px solid #121212;
+	border-radius: 24px;
+	background-color: white;
+}
+
+.hda {
+	font-size: 20px;
+}
+
+.hdb {
+	font-size: 15px;
+}
+
+.par {
+	font-size: 20px;
+}
+
+a {
+	color: black;
+	font-weight: bold;
+}
+
+.enter-input {
+	background-color: biege;
+	display: block;
+	margin-bottom: 5px;
+	width: 200px;
+	border: 3px solid #121212;
+	border-radius: 5px;
+	padding: 10px;
+	text-align: center;
+}
+
+.btn {
+	display: block;
+	border: 3px solid #121212;
+	border-radius: 5px;
+	background-color: black;
+	color: white;
+	width: 100px;
+	border: 3px solid #121212;
+	border-radius: 5px;
+	padding: 10px;
+	text-align: center;
+}
+
+.sub {
+	font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
